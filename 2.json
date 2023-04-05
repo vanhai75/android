@@ -2,7 +2,7 @@
   "name": "TNFT #2",
   "description": "test",
   "image": "https://raw.githubusercontent.com/vanhai75/android/main/2.png"
-}
+
 "attributes": [
     {
       "trait_type": "Rarity",
@@ -19,3 +19,4 @@
       "value": 5
     }
   ]
+}
