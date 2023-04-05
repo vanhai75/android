@@ -3,3 +3,19 @@
   "description": "test",
   "image": "https://raw.githubusercontent.com/vanhai75/android/main/0.png"
 }
+"attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": 1,
+      "max_value": 10
+    },
+    {
+      "trait_type": "control",
+      "value": 3,
+      "max_value": 10
+    },
+    {
+      "trait_type": "Level",
+      "value": 5
+    }
+  ]
